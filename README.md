@@ -4,14 +4,6 @@ Practical Questions of Computer Networks
 
 ## These are the practical questions of Computer Networks.
 
-## To clone
-```bash
-git clone https://github.com/AdityaKoranga/Computer_networking.git
-```
-
-```bash
-cd Computer_networking
-```
 **These are the following question**
 <br>
 [1.](https://github.com/AdityaKoranga/Computer_networking/blob/main/Q.CircularRedudancyCheck.cpp) Simulate Cyclic Redundancy Check (CRC) error detection algorithm for noisy channel.
